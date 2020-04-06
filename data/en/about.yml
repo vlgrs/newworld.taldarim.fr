@@ -1,0 +1,13 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : images/about/about-1.jpg
+    title : Our philosophy 
+    description : >
+      As long time players and professional workers, we understand that management is mandatory to run a full sized company in New World, but we also understand that the pyramidal organization is not working for everyone and it often results in disband. At Taldarim we care and valuate our members, that's why we made up a full majority qualified vote system distributed in different tiers for figuring out Company matters. pyramidal organization is not working for everyone and it often result in disband.
+
+  - positionRight : true
+    image : images/about/about-2.jpg
+    title : Our goal
+    description : >
+      We planned to become one of the most powerful Marauders Company on Aeternum server. To reach this goal, we need a welded group, acting as one for the fame of Taldarim. As a part of the community, each Taldarim member has rights and duties, and the company will always support what is right for his members.

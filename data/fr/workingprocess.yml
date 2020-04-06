@@ -1,0 +1,28 @@
+enable  : true
+topTitle: Comment nous rejoindre
+title   : Notre processus de recrutement
+subtitle: Nous avons divisé le processus de recrutement en 4 étapes, Approche, Validation de profil, Période d'essai, Validation de candidature.
+item    :
+  - number  : 1
+    icon    : tf-ion-android-hand
+    title   : Approche
+    description : >
+      Entrez en contact avec un membre du staff dans le jeu pour une vérification rapide des pré-requis, si tout est ok, on setup rapidement un call sur Discord pour faire connaissance.
+
+  - number  : 2
+    icon    : tf-ion-ios-book
+    title   : Validation de profil
+    description : >
+      Ce premier call nous permet de comprendre vos attentes en tant que membre, mais également de vous donner un aperçu des principes de fonctionnement de la Compagnie.
+
+  - number  : 3
+    icon    : tf-ion-ios-infinite
+    title   : Période d'essai
+    description : >
+      Cette période est nécessaire pour évaluer vos performances et déterminer ce qui est le mieux pour votre aventure, avec ou sans nous.
+
+  - number  : 4
+    icon    : tf-ion-ios-checkmark
+    title   : Validation de candidature
+    description : >
+      Toutes nos félicitations ! Vous avez rejoint l'une des meilleures Compagnie sur le serveur Aeternum et vous êtes désormais membre officiel de Taldarim.  

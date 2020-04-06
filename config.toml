@@ -1,0 +1,230 @@
+baseURL = "https://newworld.taldarim.fr"
+languageCode = "en-us"
+title = "Taldarim | Taldarim Company, Marauders elite."
+theme = "navigator-hugo"
+summaryLength = 10
+
+# Build robots.txt file
+enableRobotsTXT = true
+# google analytics tracking id
+googleAnalytics = ""
+
+enableGitInfo = false
+pygmentsCodeFences = true
+
+# Multilangues setup
+# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
+defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "en"
+
+# Site Params
+[params]
+logo = "images/logo.png"
+
+# Gestion des langues : FR / EN / NL / DE
+[[Params.listeLangues]]
+code = "fr"
+[[Params.listeLangues]]
+code = "en"
+
+# meta data
+author = "Themefisher"
+description = "This is meta description"
+
+# Gestion des langues : FR / EN / NL / DE
+[Languages]
+############ 1 - Site en FRANCAIS
+[Languages.fr]
+weight = 1
+languageCode = "fr-fr"
+title = "Compagnie Taldarim - New World"
+dateFormat = "2 January 2006"
+
+home = ""
+logo = "images/logo.png"
+menufixed = false
+
+footerDescription = ""
+footerServiceTitle = ""
+footerQuicklinkTitle = ""
+footerAboutTitle = ""
+footerSubscribeTitle = ""
+
+# Hero Area Section
+[Languages.fr.params.hero]
+enable  = true
+heading = "Préparez-vous au voyage avec Taldarim"
+description = "Taldarim est une compagnie Marauders, jouant sur le serveur Aeternum. Notre objectif est d'établir une communauté basée sur l'entraide, la fraternité et la justice."
+button  = true
+btnText = "REJOINGEZ NOUS"
+btnURL  = "https://themefisher.com/"
+videoThumb = "images/slider/NewWorld_keyart.jpg"
+videoURL   = "https://www.youtube.com/embed/OKnUBs-Ko44"
+
+# About 2 Section
+[Languages.fr.params.aboutSm]
+enable  = false
+title   = "FRANCAIS We have explored the digital landscape with passion for a long time"
+description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+
+# Blog Section On Homepage
+[Languages.fr.params.blog]
+enable  = false
+topTitle= "OUR UNTOLD STORY"
+title   = "FRANCAIS Blog."
+subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+
+# Contact Section
+[Languages.fr.params.contact]
+enable  = false
+topTitle= "DROP US A NOTE"
+title   = "FRANCAIS Contact Us."
+subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+address = "14/05, Stockhome <br> Victori Palace , United States"
+phone   = "(03) 9283 2617"
+fax     = "+61 3827 3590"
+facebook= "https://www.facebook.com/"
+twitter = "https://twitter.com/"
+linkedin= "https://www.linkedin.com/"
+dribbble= "https://dribbble.com/"
+instagram= "https://www.instagram.com/"
+mapLatitude = "51.507351"
+mapLongitude= "-0.127758"
+mapMarker   = "images/marker.png"
+
+# Call to Action Section on About Page
+[Languages.fr.params.cta]
+enable  = false
+bg      = "images/call-to-action/call-to-action-bg-2.jpg"
+title   = "FRANCAIS Let's Create Something Together"
+subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+btnText = "Nous contacter"
+
+############# 2 - Site en ENGLISH
+[Languages.en]
+weight = 2
+languageCode = "en-us"
+title = "Taldarim Company - New World"
+dateFormat = "January 2, 2006"
+
+home = ""
+logo = "images/logo.png"
+menufixed = false
+
+footerDescription = "Taldarim Company, Justice Hammer on Aeternum, New World."
+footerServiceTitle = "Service"
+footerQuicklinkTitle = "Quicklinks"
+footerAboutTitle = "About"
+footerSubscribeTitle = "Subscribe"
+
+# Hero Area Section
+[Languages.en.params.hero]
+enable  = true
+heading = "Get ready for your journey with Taldarim"
+description = "Taldarim is a Marauders Company, playing on the Aeternum server. Our goal is to establish a community based on mutual aid, brotherhood and justice. "
+button  = true
+btnText = "APPLY NOW"
+btnURL  = "https://themefisher.com/"
+videoThumb = "images/slider/NewWorld_keyart.jpg"
+videoURL   = "https://www.youtube.com/embed/OKnUBs-Ko44"
+
+# About 2 Section
+[Languages.en.params.aboutSm]
+enable  = false
+title   = "We have explored the digital landscape with passion for a long time"
+description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+
+# Blog Section On Homepage
+[Languages.en.params.blog]
+enable  = false
+topTitle= "OUR UNTOLD STORY"
+title   = "Blog."
+subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+
+# Contact Section
+[Languages.en.params.contact]
+enable  = false
+topTitle= "DROP US A NOTE"
+title   = "Contact Us."
+subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+address = "14/05, Stockhome <br> Victori Palace , United States"
+phone   = "(03) 9283 2617"
+fax     = "+61 3827 3590"
+facebook= "https://www.facebook.com/"
+twitter = "https://twitter.com/"
+linkedin= "https://www.linkedin.com/"
+dribbble= "https://dribbble.com/"
+instagram= "https://www.instagram.com/"
+mapLatitude = "51.507351"
+mapLongitude= "-0.127758"
+mapMarker   = "images/marker.png"
+
+# Call to Action Section on About Page
+[Languages.en.params.cta]
+enable  = false
+bg      = "images/call-to-action/call-to-action-bg-2.jpg"
+title   = "Let's Create Something Together"
+subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+btnText = "Contact Us"
+
+# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
+
+# Site Menus
+[menu]
+# # Navbar Menus
+# [[menu.nav]]
+# name    = "about"
+# url     = "about"
+# weight  = 2
+# [[menu.nav]]
+# name    = "service"
+# url     = "service"
+# weight  = 3
+# [[menu.nav]]
+# name    = "portfolio"
+# url     = "portfolio"
+# weight  = 4
+# [[menu.nav]]
+# name    = "blog"
+# url     = "blog"
+# weight  = 2
+# [[menu.nav]]
+# name    = "contact"
+# url     = "contact"
+# weight  = 6
+[[menu.nav]]
+name    = "officialwebsite"
+url     = "https://www.newworld.com/en-us"
+weight  = 3
+
+# Footer Service Menu
+[[menu.service]]
+name    = "graphicdesign"
+url     = "service"
+weight  = 1
+[[menu.service]]
+name    = "webdesign"
+url     = "service"
+weight  = 2
+[[menu.service]]
+name    = "webdevelopment"
+url     = "service"
+weight  = 3
+
+# Footer Quick links Menu
+[[menu.quicklink]]
+name    = "partners"
+url     = "about"
+weight  = 1
+[[menu.quicklink]]
+name    = "about"
+url     = "about"
+weight  = 2
+[[menu.quicklink]]
+name    = "faqs"
+url     = "about"
+weight  = 3
+[[menu.quicklink]]
+name    = "badges"
+url     = "about"
+weight  = 4

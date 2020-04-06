@@ -1,0 +1,16 @@
+enable  : true
+item  :
+  - icon  : tf-ion-ios-world-outline
+    title : "Server : Aeternum"
+    description : >
+      We are playing on Aeternum as Marauders.
+
+  - icon  : tf-ion-ios-people-outline
+    title : "Company fill : 8/50"
+    description : >
+      Feel free to apply, and join our wonderful community.
+
+  - icon  : tf-shield2
+    title : "Company alliances : 0"
+    description : >
+      We are permanently looking for partnership with other Companies to evangelize all Aeternum territories.

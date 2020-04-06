@@ -1,0 +1,12 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : images/about/about-1.jpg
+    title : Notre Philosophie 
+    description : >
+      En tant que joueurs expérimentés et rigoureux, nous avons compris qu'un bon management est obligatoire pour diriger une Compagnie dans New World, mais nous comprenons également que l'organisation pyramidale ne fonctionne pas pour tout le monde et entraîne souvent le "disband" des Guildes. Chez Taldarim, nous prenons soin de nos membres et les valorisons, c'est pourquoi nous avons mis en place un système de vote à la majorité qualifiée, réparti à différents tiers pour permettre de résoudre les conflits internes au sein de la Compagnie.
+  - positionRight : true
+    image : images/about/about-2.jpg
+    title : Notre objectif
+    description : >
+      Nous avons prévu de devenir l'une des sociétés Marauders les plus puissantes sur le serveur Aeternum. Pour atteindre cet objectif, nous avons besoin d'un groupe soudé, agissant comme un pour la renommée de Taldarim. En tant que membre de la communauté, chaque membre de Taldarim a des droits et des devoirs, et l'entreprise soutiendra toujours ce qui convient à ses membres.

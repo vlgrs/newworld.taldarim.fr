@@ -1,0 +1,28 @@
+enable  : true
+topTitle: HOW TO JOIN
+title   : Our Recruitment Process
+subtitle: We have divided the recruitment process in 4 steps, Approach, Profil validation, Trial period, Application validation.
+item    :
+  - number  : 1
+    icon    : tf-ion-android-hand
+    title   : Approach
+    description : >
+      Get in touch with our staff members in game for a fast requirment check, if you pass, you will get a meeting appointment.
+
+  - number  : 2
+    icon    : tf-ion-ios-book
+    title   : Profil validation
+    description : >
+      This first appointment allow us to undersand your expectations as member and we also give you an overview of operating principle in the company.
+
+  - number  : 3
+    icon    : tf-ion-ios-infinite
+    title   : Trial period
+    description : >
+      This period is needed to evaluate your performances and determine what is the best for your adventure, with or without us.
+
+  - number  : 4
+    icon    : tf-ion-ios-checkmark
+    title   : Application validation
+    description : >
+      Congratulations ! You have join one of the best company on Aeternum server and you are now an official member of Taldarim.  

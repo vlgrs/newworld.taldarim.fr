@@ -1,0 +1,16 @@
+enable  : true
+item  :
+  - icon  : tf-ion-ios-world-outline
+    title : "Serveur : Aeternum"
+    description : >
+      La Compagnie de Maraudeurs Tadarim est établie sur le serveur Aeternum.
+
+  - icon  : tf-ion-ios-people-outline
+    title : "Membres : 8/50"
+    description : >
+      N'hésitez pas à apply pour rejoindre notre formidable Compagnie.
+
+  - icon  : tf-shield2
+    title : "Alliances : 0"
+    description : >
+      Nous sommes contament à la recherche de partenariat avec d'autres Compagnies pour évangéliser les téritoires d'Aeternum.
