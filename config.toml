@@ -54,7 +54,7 @@ footerSubscribeTitle = ""
 [Languages.fr.params.hero]
 enable  = true
 heading = "Préparez-vous au voyage avec Taldarim"
-description = "Taldarim est une compagnie Marauders, jouant sur le serveur Aeternum. Notre objectif est d'établir une communauté basée sur l'entraide, la fraternité et la justice."
+description = "Taldarim est une compagnie de Maraudeurs, jouant sur le serveur Aeternum. Notre objectif est d'établir une communauté basée sur l'entraide, la fraternité et la justice."
 button  = true
 btnText = "REJOINGEZ NOUS"
 btnURL  = "https://themefisher.com/"
