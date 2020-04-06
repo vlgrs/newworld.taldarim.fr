@@ -8,8 +8,8 @@ other = "Portfolio"
 other = "Blog"
 [contact]
 other = "Contact"
-[officialwebsite]
-other = "Site Officiel"
+# [officialwebsite]
+# other = "Site Officiel"
 
 [graphicdesign]
 other = "Graphic Design"
