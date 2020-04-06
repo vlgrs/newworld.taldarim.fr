@@ -13,7 +13,7 @@ item    :
     icon    : tf-ion-ios-book
     title   : Validation de profil
     description : >
-      Ce premier call nous permet de comprendre vos attentes en tant que membre, mais également de vous donner un aperçu des principes de fonctionnement de la Compagnie.
+      Ce premier call nous permet de comprendre vos attentes en tant que membre, mais également de vous donner un aperçu des principes de fonctionnement de la compagnie.
 
   - number  : 3
     icon    : tf-ion-ios-infinite
@@ -25,4 +25,4 @@ item    :
     icon    : tf-ion-ios-checkmark
     title   : Validation de candidature
     description : >
-      Toutes nos félicitations ! Vous avez rejoint l'une des meilleures Compagnies sur le serveur Aeternum et vous êtes désormais membre officiel de Taldarim.  
+      Toutes nos félicitations ! Vous avez rejoint l'une des meilleures compagnies sur le serveur Aeternum et vous êtes désormais membre officiel de Taldarim.  

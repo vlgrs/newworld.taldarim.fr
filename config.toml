@@ -57,7 +57,7 @@ heading = "Préparez-vous au voyage avec Taldarim"
 description = "Taldarim est une compagnie de Maraudeurs, jouant sur le serveur Aeternum. Notre objectif est d'établir une communauté basée sur l'entraide, la fraternité et la justice."
 button  = true
 btnText = "REJOINGEZ NOUS"
-btnURL  = "https://themefisher.com/"
+btnURL  = "https://forms.gle/qQEqP3J7DaR3N7pU6"
 videoThumb = "images/slider/NewWorld_keyart.jpg"
 videoURL   = "https://www.youtube.com/embed/OKnUBs-Ko44"
 
