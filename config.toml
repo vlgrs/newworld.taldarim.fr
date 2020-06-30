@@ -1,4 +1,4 @@
-baseURL = "https://newworld.taldarim.fr"
+baseURL = "/"
 languageCode = "en-us"
 title = "Taldarim | Taldarim Company, Marauders elite."
 theme = "navigator-hugo"
